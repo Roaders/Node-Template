@@ -9,7 +9,8 @@
     "build": "tsc",
     "pretest": "npm run build",
     "test": "jasmine",
-    "prepublish": "typings install",
+    "push": "git push origin && git push origin --tags"
+    "prepublish": "npm run build && npm test && npm run push",
     "prestart": "npm run build",
     "start": "node example/example.js"
   },

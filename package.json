@@ -17,8 +17,7 @@
     "type": "git",
     "url": "git+https://github.com/Roaders/Node-Template.git"
   },
-  "keywords": [
-  ],
+  "keywords": [],
   "author": "Giles Roadnight",
   "license": "MIT",
   "bugs": {
@@ -26,8 +25,8 @@
   },
   "homepage": "https://github.com/Roaders/Node-Template#readme",
   "devDependencies": {
-    "jasmine": "^2.5.2",
-    "typescript": "^2.1.4",
-    "typings": "^2.0.0"
+    "jasmine": "2.5.2",
+    "typescript": "2.2.2",
+    "typings": "2.0.0"
   }
 }

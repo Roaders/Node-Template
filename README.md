@@ -1,7 +1,5 @@
 # Node-Template
 
-[![Greenkeeper badge](https://badges.greenkeeper.io/Roaders/Node-Template.svg)](https://greenkeeper.io/)
-
 Template repo for starting node TS projects
 
 ## Installation
